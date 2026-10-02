@@ -193,7 +193,7 @@ Recommended references for further study include:
 **Helia Tajabadi**
 [GitHub](https://github.com/HeliaTJB)
 
-**Amirali Jahanshahi**
+**AmirAli Jahanbakhshi**
 [GitHub](https://github.com/AmirAli-jb)
 
 **Signals and Systems — Sharif University of Technology**
